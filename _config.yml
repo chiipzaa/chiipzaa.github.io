@@ -1,8 +1,8 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+author: Teerasit Arttantra
+github: https://github.com/chiipzaa
+about: I am freelance developer. Currently doing more in frontend and backend.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -19,13 +19,13 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "#"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "#"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/chiipzaa"
 
 share:
   twitter_username: agusmakmun6
